@@ -1,5 +1,14 @@
 # ninja-chat
 
+## Screenshots
+
+![screen1](screen/1.png)
+![screen2](screen/2.png)
+
+## Live Website
+
+[https://ninja-chat-f225b.web.app/](https://ninja-chat-f225b.web.app/)
+
 ## Project setup
 ```
 npm install
